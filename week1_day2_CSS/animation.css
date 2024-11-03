@@ -1,0 +1,51 @@
+body {
+  display: flex;
+  height: 100vh;
+  background-color: darkgray;
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  /* transition-property: background-color; */
+  /* transition-duration: 0.5s;
+  transition-timing-function: ease-in-out; */
+  /* transition: all 0.5s ease-in-out; */
+
+  animation-name: kutu;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+
+  /* animation: kutu 2s ease-in-out infinite  */
+}
+
+.box:hover {
+  background-color: blue;
+  /* width: 50px;
+  height: 200px; */
+}
+
+@keyframes kutu {
+  0% {
+    transform: translateX(0);
+    background-color: red;
+  }
+  25% {
+    background-color: green;
+  }
+  50% {
+    transform: translateX(1820px);
+    background-color: blue;
+  }
+  75% {
+    background-color: yellow;
+  }
+  100% {
+    transform: translateX(0);
+    background-color: red;
+  }
+}

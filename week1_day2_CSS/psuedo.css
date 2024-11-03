@@ -1,0 +1,77 @@
+.link {
+  text-decoration: none;
+  color: chocolate;
+}
+.link:active /*Pseudo Class*/ {
+  color: red;
+}
+.link:hover {
+  color: rgb(234, 0, 255);
+}
+.link:visited {
+  color: blue;
+}
+
+.list_item {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.list_item:first-child {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.list_item:last-child {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.list_item:nth-child(3) {
+  background-color: yellow;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.list_item:nth-child(odd) {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.list_item::first-letter {
+  font-size: 30px;
+}
+.list_item::first-line {
+  font-weight: bold;
+}
+
+.text::first-line {
+  color: rgb(0, 255, 179);
+  font-size: 24px;
+}
+.p::first-letter {
+  color: rgb(194, 99, 238);
+  font-size: 24px;
+}
+
+.text::before {
+  content: ">> ";
+  color: rgb(148, 7, 106);
+  font-size: 24px;
+}
+
+.text::after {
+  content: " <<";
+  color: rgb(229, 233, 11);
+  font-size: 24px;
+}
