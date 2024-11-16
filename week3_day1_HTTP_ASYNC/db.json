@@ -1,0 +1,219 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "Varol Maksutoğlu",
+      "department": "Bilişim",
+      "salary": 5000
+    },
+    {
+      "name": "Enes Söl",
+      "department": "Bilişim",
+      "salary": 7000
+    },
+    {
+      "name": "Ömür Kasap",
+      "department": "Muhasebe",
+      "salary": 6000
+    },
+    {
+      "name": "Egehan Demir",
+      "department": "IK",
+      "salary": 5500
+    },
+    {
+      "id": "125e",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "7c82",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "3caf",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "9272",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "20fe",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "5c0f",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "1d9d",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "94f1",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "040a",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "e64f",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "02c7",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "27b6",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "ab1f",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "1d4e",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "9b4c",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "0fe4",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "ce45",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "8f29",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "b72b",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "ed28",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "0ee9",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "e585",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "b3aa",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "6dac",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "88b5",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "72ca",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "fd5e",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    },
+    {
+      "id": "6b70",
+      "name": "Varol",
+      "department": "Deneme",
+      "salary": "651651"
+    }
+  ]
+}
